@@ -1,8 +1,4 @@
+*.pth
+.gitignore
 Dockerfile
 README.md
-.gitignore
-*.pth
-*.pyc
-*.pyo
-*.pyd
-__pycache__
